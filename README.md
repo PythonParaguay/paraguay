@@ -9,8 +9,6 @@ A simple 'easter egg' package for the PythonPy community inspired in Python's `a
 pip install paraguay
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ### How to use
 
 ```
